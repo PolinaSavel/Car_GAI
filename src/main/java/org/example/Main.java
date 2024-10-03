@@ -8,9 +8,8 @@ public class Main {
 
     Car [] car = new Car [5];
     ServiceSearch  [] arraySearch = new ServiceSearch [1];
-
+        int a=5;
         System.out.println("Our common car base:");
-
         car[0] = new Car();
         car[0].setStsNumber("588528961");
         car[0].setNumberCar("F 568 RT");
